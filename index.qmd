@@ -1,7 +1,12 @@
 ---
-title: "Oliver Hancock"
+title: "Welcome to My Website"
+author: "Oliver Hancock"
+date: 2025-01-29
+format:
+    html:
+        theme: journal
+        toc: true
 ---
+# Hello, World!
+Welcome to my Quarto Website
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
