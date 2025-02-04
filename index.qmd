@@ -10,3 +10,5 @@ format:
 # Hello, World!
 Welcome to my Quarto Website
 
+![](images/19-1408-SUMMERPA1-071-1920x624.jpg)
+
