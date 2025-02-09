@@ -1,0 +1,14 @@
+---
+title: "Research Introduction: Geographic and Remote Work Analysis"
+author: "Team 7: Oliver Hancock"
+date: today
+format: 
+  html:
+    bibliography: references.bib
+    csl: csl/econometrica.csl
+    toc: true
+---
+
+The impact remote working has had on people and productivity post-COVID continues to be heavily discussed [@pradnyafactors].
+
+## References
